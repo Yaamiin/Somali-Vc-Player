@@ -36,9 +36,9 @@ async def _human_time_duration(seconds):
 async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/f323bcaec71ba138fb6df.png",
-        caption=f"""**A Telegram Music Bot Based Mongodb.
- Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
-💞  These Features A.I Based 
+        caption=f"""**ʜᴏɪ, Wᴀxᴀɴ ᴀʜᴀʏ Sʜᴀᴅɪʏᴏ
+Wᴀxᴀɴ Kᴀ Cᴀᴡɪɴ Kᴀʀᴀ Mᴀᴀᴍᴜʟɪᴅᴀ Gʀᴏᴜᴘᴋᴀᴅᴀ WᴀxN ᴀʜᴀʏ ʙᴏᴛ Tᴀʏᴀᴅɪsᴀ ʜᴇᴇʀ sᴀʀᴇ Tᴀʜᴀʏ! Tᴀᴀʙᴏ  ...
+💞  Real bot owner @attacktor
 Powered By [Sᴏᴍᴀʟɪ ʙᴏᴛs](t.me/somalibots) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
