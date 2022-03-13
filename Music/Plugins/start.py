@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**•───────▬▬▬▬▬─────────• 
 💜Hᴇʏ, I'ᴍ Sᴏ Fᴀsᴛ Vᴄ Pʟᴀʏᴇʀ Bᴏᴛ Fᴏʀ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘs...
 Yᴏᴜ Cᴀɴ Usᴇ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs Wɪᴛʜ ^ /
-🥱Iғ Yᴏᴜ Nᴇᴇᴅ ᴀɴʏ ʜᴇʟᴘ ғʀᴏᴍ Mᴇ Dᴍ ᴍᴇ ʜᴇʀᴇ [Rᴜᴜsʜᴋᴀ](t.me/SaYgaruushka_bot) Bᴀʙʏ..
+🥱Iғ Yᴏᴜ Nᴇᴇᴅ ᴀɴʏ ʜᴇʟᴘ ғʀᴏᴍ Mᴇ Dᴍ ᴍᴇ ʜᴇʀᴇ [Rᴜᴜsʜᴋᴀ](t.me/SaYgaruushka2244) Bᴀʙʏ..
 •───────────────────•) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
@@ -54,7 +54,7 @@ Yᴏᴜ Cᴀɴ Usᴇ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs Wɪᴛʜ ^ /
                         "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Somalibots"
                     ),
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ 🤡", url="https://t.me/@AttackTor"
+                        "Oᴡɴᴇʀ 🤡", url="https://t.me/SaYgaruushka2244"
                     )
                 ],
                 [
@@ -96,7 +96,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/attackTor")
+                        " Oᴡɴᴇʀ 🤡", url=f"https://t.me/SaYgaruushka2244")
                 ]
             ]
         ),
